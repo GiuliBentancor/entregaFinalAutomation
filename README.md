@@ -1,2 +1,2 @@
 # entregaFinalAutomation
-Automation project usando Selenium WebDriver, Java, Page Oriented, Page factory. 
+Automation project using Selenium WebDriver, Java, Page Oriented, Page factory. 
